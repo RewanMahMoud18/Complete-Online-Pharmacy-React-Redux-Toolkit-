@@ -1,13 +1,45 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.home-header {
+  color: rgb(3, 3, 71);
+  margin-bottom: 20px;
+  font-weight: 700;
+  /* margin-top: 70px; */
+  font-size: 34px;
+  margin-left: 60px;
+}
+.card-btnn {
+  border: 1px solid #1dc0dd;
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  float: right;
+  background-color: #fff;
+}
+.card-btnn:hover {
+  background-color: #1dc0dd;
+  color: #fff;
+}
+h5.card-title {
+  color: rgb(3, 3, 71);
+  font-weight: 700;
+}
+.card-text-desc {
+  color: rgb(127, 126, 126);
+}
+.card-text-price {
+  color: rgb(3, 3, 71);
+  font-size: 18px;
+  font-weight: 700;
 }

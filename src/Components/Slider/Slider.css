@@ -1,0 +1,19 @@
+.slider {
+  background-color: #aae2fa;
+}
+.slider-desc h5 {
+  color: rgb(4, 4, 42);
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.slider-desc p {
+  color: rgb(4, 4, 42);
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.image-slider {
+  height: 600px;
+}

@@ -1,0 +1,10 @@
+.singleProductDesc {
+  color: rgb(69, 69, 69);
+  font-size: 23px;
+}
+.singlepage-btn {
+  margin-top: 30px;
+}
+.singlepage-btn:hover {
+  background-color: #7dcbec;
+}

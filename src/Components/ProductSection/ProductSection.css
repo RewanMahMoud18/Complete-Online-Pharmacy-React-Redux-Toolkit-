@@ -1,0 +1,17 @@
+.card-section {
+  width: 250px;
+  margin-top: 50px;
+  height: 300px;
+}
+.card-section span {
+  color: rgb(10, 175, 226);
+  font-size: 25px;
+  font-weight: 700;
+  margin-right: 130px;
+}
+div.card-title.h5 {
+  color: rgb(2, 2, 50);
+  font-size: 21px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,10 @@
+.blog-details-desc h2 {
+  margin-top: 40px;
+  color: rgb(4, 4, 62);
+  font-weight: 700;
+}
+.blog-details-desc p {
+  color: #a1a0a0;
+  font-size: 18px;
+  margin-top: 20px;
+}

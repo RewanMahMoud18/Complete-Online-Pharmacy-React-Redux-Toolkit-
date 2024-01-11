@@ -1,0 +1,24 @@
+img.test-img {
+  width: 320px;
+  height: 520px;
+  margin-left: 10px;
+  margin-right: 70px;
+}
+.test-client {
+  border: 1px solid #d1d0d0;
+  padding: 20px 10px;
+  width: 260px;
+  margin-right: 40px;
+  height: 410px;
+  margin-top: 90px;
+}
+.margin-row {
+  margin-bottom: 70px;
+  margin-top: 10px;
+}
+.text-test {
+  color: rgb(3, 3, 67);
+  font-weight: 700;
+  font-size: 35px;
+  margin-top: 80px;
+}

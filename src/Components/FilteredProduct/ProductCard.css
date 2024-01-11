@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+}
+.card-image {
+  height: 190px;
+  margin-bottom: 10px;
+}
+.productCard-desc h3 {
+  text-decoration: none;
+  color: rgb(5, 5, 74);
+  display: block;
+  font-size: 23px;
+  font-weight: 700;
+}
+.productCard-desc p {
+  color: rgb(72, 71, 71);
+  font-size: 20px;
+}
+.productCard-desc span {
+  color: rgb(10, 175, 226);
+  font-size: 25px;
+  font-weight: 700;
+}
