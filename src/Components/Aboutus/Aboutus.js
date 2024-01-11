@@ -8,6 +8,7 @@ import icon4 from "../../assets/images/icon_4.png";
 
 import "./Aboutus.css";
 import Testimonial from "../Testimonial/Testimonial";
+import { Link } from "react-router-dom";
 function Aboutus() {
   return (
     <>
@@ -49,7 +50,9 @@ function Aboutus() {
               Aenean nec eros. Vestibulum ante ipsum prieymis in
               faucibusestibuluro nisl, porta scelerisque eget, malesuada
             </p>
-            <button className="about-btn">Contact Us</button>
+            <Link to="/contact">
+              <button className="about-btn">Contact Us</button>
+            </Link>
           </div>
         </div>
       </div>

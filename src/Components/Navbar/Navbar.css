@@ -60,7 +60,7 @@ nav {
 }
 .cart-icon {
   position: relative;
-  display: inline-block; /* Ensure it doesn't take full width */
+  display: inline-block;
   cursor: pointer;
 }
 .bag-icon {

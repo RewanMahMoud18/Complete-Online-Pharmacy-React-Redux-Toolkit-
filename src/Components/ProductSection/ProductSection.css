@@ -3,6 +3,9 @@
   margin-top: 50px;
   height: 300px;
 }
+.card-image-sec {
+  height: 150px;
+}
 .card-section span {
   color: rgb(10, 175, 226);
   font-size: 25px;
@@ -11,7 +14,16 @@
 }
 div.card-title.h5 {
   color: rgb(2, 2, 50);
-  font-size: 21px;
+  font-size: 20px;
   font-weight: 700;
   margin-bottom: 20px;
+}
+.add-to-cart {
+  margin-left: 60px;
+  background-color: rgb(26, 173, 231);
+  border: none;
+}
+.productCard-desc h5 {
+  font-size: 19px;
+  color: rgb(2, 2, 50);
 }

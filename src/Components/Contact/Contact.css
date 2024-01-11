@@ -42,8 +42,8 @@ form button {
 
 .bottom-image,
 .top-image {
-  width: 100%; /* or set the width you desire */
-  height: auto; /* to maintain the aspect ratio */
+  width: 100%;
+  height: auto;
 }
 
 .bottom-image {

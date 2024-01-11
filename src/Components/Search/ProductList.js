@@ -26,6 +26,7 @@ const ProductList = ({ products }) => {
               <div className="card-body">
                 <h5 className="card-title">{product.name}</h5>
                 <p className="card-text-desc">{product.text}</p>
+                <p className="card-title">Type: ${product.type}</p>
 
                 <p className="card-text-price">Price: ${product.price}</p>
                 <button

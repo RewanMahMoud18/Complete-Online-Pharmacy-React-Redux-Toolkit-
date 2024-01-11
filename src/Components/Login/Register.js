@@ -8,8 +8,6 @@ const Register = () => {
   const [password, setPassword] = useState("");
 
   const handleRegister = () => {
-    // Perform registration logic (e.g., API call) here
-    // If successful, dispatch setRegistered action
     dispatch(setRegistered());
   };
 
