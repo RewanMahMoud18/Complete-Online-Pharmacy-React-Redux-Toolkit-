@@ -2,6 +2,7 @@
 # Complete Online Pharmacy App (React + Redux Toolkit)
 
 Welcome to the Complete Online Pharmacy App! This project is built using React and Redux Toolkit to create a fully functional online pharmacy application.
+
 [video link] (https://drive.google.com/file/d/1r3yyU1jU3mgsclH5tpX7__ODlMr91vj4/view?usp=sharing)
 
 ## Table of Contents
